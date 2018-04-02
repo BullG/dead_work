@@ -1,8 +1,15 @@
 import Vue from 'vue'
+<<<<<<< HEAD
 import App from '@/App.vue'
 import router from '@/router'
 import store from '@/store'
 // import 'weui/dist/style/weui.min.css'
+=======
+import App from './App.vue'
+import router from './router'
+import store from './store'
+import 'weui/dist/style/weui.min.css'
+>>>>>>> b88631b7eed6bdecc019f115b21932ee1d380c13
 import 'vue-ydui/dist/ydui.base.css'
 // import YDUI from 'vue-ydui'; /* 相当于import YDUI from 'vue-ydui/ydui.rem.js' */
 // import 'vue-ydui/dist/ydui.rem.css'; /* 使用px：import 'vue-ydui/dist/ydui.px.css'; */
@@ -22,8 +29,11 @@ if (typeof localStorage === 'undefined' || localStorage === null) {
     localStorage = new LocalStorage('./scratch')
 }
 
+<<<<<<< HEAD
 require('@/mock/mock.js')
 
+=======
+>>>>>>> b88631b7eed6bdecc019f115b21932ee1d380c13
 Vue.config.productionTip = false
 
 new Vue({

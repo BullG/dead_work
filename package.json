@@ -19,7 +19,10 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.0-beta.6",
     "@vue/cli-service": "^3.0.0-beta.6",
+<<<<<<< HEAD
     "mockjs": "^1.0.1-beta3",
+=======
+>>>>>>> b88631b7eed6bdecc019f115b21932ee1d380c13
     "node-sass": "^4.7.2",
     "sass-loader": "^6.0.6",
     "vue-template-compiler": "^2.5.13"

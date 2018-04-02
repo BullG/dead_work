@@ -27,6 +27,16 @@
         </router-link>
       </div>
     </div>
+<<<<<<< HEAD
+=======
+    <!-- <div class="weui-cell">
+        <div class="weui-cell__hd"><img src="..." alt="" style="width:20px;margin-right:5px;display:block"></div>
+        <div class="weui-cell__bd">
+            <p>标题文字</p>
+        </div>
+        <div class="weui-cell__ft">说明文字</div>
+    </div> -->
+>>>>>>> b88631b7eed6bdecc019f115b21932ee1d380c13
   </div>
 </template>
 <style lang='scss' >
